@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.card-quoute{
+  width: 35%;
+  padding: 10px;
+  margin: 25vh auto;
+  border-radius: 60px 0 60px 0;
+  background-color: aliceblue;
+}
+
+.change-quote{
+  border-radius: 0 6px 0 6px;
+  width: 55px;
+  height: 30px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.quote{
+  display: inline;
+  margin: 25px;
+  padding: 25px;
+}
+
+.author{
+  margin: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+
